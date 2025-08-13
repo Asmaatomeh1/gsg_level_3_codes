@@ -1,6 +1,6 @@
 # solution 1
 
-#Example with n=2
+# Example with n=2
 
 Swimming Running 
 Swimming Football 
