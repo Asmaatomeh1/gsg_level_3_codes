@@ -11,7 +11,7 @@
 ##### COUNT: : 6
 
 
-Expected COUNT formula and value for your chosen n tests : 3 * 2^(n-1)
+### Expected COUNT formula and value for your chosen n tests : 3 * 2^(n-1)
 
 
 ## Asmaa Tawfeeq Tomeh
